@@ -14,8 +14,8 @@
 
 ## ✆ Owner
 - `Yusuf Expert`
-- [`WhatsApp`](wa.me/6283873115706) - *Save nomor Owner*
-- [`Instagram`](instagram.com/yusuf.expert) - *Don't forget to Follow*
+- [`WhatsApp`](https://wa.me/6283873115706) - *Save nomor Owner*
+- [`Instagram`](https://www.instagram.com/yusuf.expert) - *Don't forget to Follow*
 
 ## ⓘ Cara Pasang & Pakai *(Windows)*
 - Buka Command Prompt
