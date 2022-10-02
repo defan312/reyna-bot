@@ -8,11 +8,11 @@ const { say } = cfonts
 import fs from 'fs'
 
 function startBot(){
-say('ReynaBOT',{
+say('ANIABOT',{
 font:'chrome',
 align:'center',
 colors:['cyan']});
-say(`WhatsApp BOT Multi Device by Yusuf\nIG: @yusuf.expert`,{
+say(`WhatsApp BOT Multi Device by Defan\nIG: @defan_sugiarto`,{
 font:'console',
 align:'center',
 gradient:['red','magenta']});
@@ -29,7 +29,7 @@ const{lastDisconnect,connection}=up;
 console.log(`Koneksi: ${connection}`);
 
 if(connection==undefined){
-say('Reyna: Tunggu sebentar...',{
+say('ANIABOT: Tunggu sebentar...',{
 font:'console',
 align:'left',
 colors:['green']})};
@@ -113,13 +113,13 @@ startBot();
 }};
 
 if(connection=='connecting'){
-say('Reyna: Menghubungkan...',{
+say('ANIA: Menghubungkan...',{
 font:'console',
 align:'left',
 colors:['green']})};
 
 if(connection=='open'){
-say('Reyna: Membuka...',{
+say('ANIA: Membuka...',{
 font:'console',
 align:'left',
 colors:['green']})};
